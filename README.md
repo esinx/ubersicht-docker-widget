@@ -6,7 +6,7 @@
 ## Installation
 
 1. Install [Übersicht](http://tracesof.net/uebersicht/)
-2. Clone this repository to your Übersicht widgets directory.
+2. Clone this repository to your Übersicht widgets directory. / or download the zip and extract to your Übersicht widgets directory.
 3. Customize the widget by editing the `index.jsx` file.
 
 ## Requirements
